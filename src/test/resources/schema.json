@@ -1,0 +1,79 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Generated schema for Root",
+  "type": "object",
+  "properties": {
+    "object": {
+      "type": "string"
+    },
+    "available": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "amount": {
+            "type": "number"
+          },
+          "currency": {
+            "type": "string"
+          },
+          "source_types": {
+            "type": "object",
+            "properties": {
+              "card": {
+                "type": "number"
+              }
+            },
+            "required": [
+              "card"
+            ]
+          }
+        },
+        "required": [
+          "amount",
+          "currency",
+          "source_types"
+        ]
+      }
+    },
+    "livemode": {
+      "type": "boolean"
+    },
+    "pending": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "amount": {
+            "type": "number"
+          },
+          "currency": {
+            "type": "string"
+          },
+          "source_types": {
+            "type": "object",
+            "properties": {
+              "card": {
+                "type": "number"
+              }
+            },
+            "required": [
+              "card"
+            ]
+          }
+        },
+        "required": [
+          "amount",
+          "currency",
+          "source_types"
+        ]
+      }
+    }
+  },
+  "required": [
+    "object",
+    "available",
+    "livemode",
+    "pending"
+  ]
+}

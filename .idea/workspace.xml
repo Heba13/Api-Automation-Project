@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ffd7e780-6b76-4aab-8403-69e23a45e96c" name="Changes" comment="update" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/test/java/stripe/endpoint/Recharge.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2fXd9ajbcbNAMar8GJBvMs4GauK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/mobile/orangeHr/API/stripe/src/test/java/stripe/test&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\mobile\orangeHr\API\stripe\src\test\java\stripe\test" />
+      <recent name="D:\mobile\latest\Strip\src\test" />
+      <recent name="D:\mobile\latest\Strip\src\test\java\api_Tests\api.utilities" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\mobile\orangeHr\API\stripe\src\test\resources" />
+      <recent name="D:\mobile\orangeHr\API\stripe\src\test\java\stripe\test" />
+      <recent name="D:\mobile\orangeHr\API\stripe\target" />
+      <recent name="D:\mobile\latest\Strip\target\test-classes" />
+      <recent name="D:\mobile\latest\Strip\src\test\java\api_Tests\api.test" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="api_Tests.test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.ChargingRunner">
+    <configuration name="Scenario: User Can check schema response for balance end point (1)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/stripe/test/Charging.feature" />
+      <option name="GLUE" value="stripe" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="stripe" />
+      <option name="NAME_FILTER" value="^User Can check schema response for balance end point$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^User Can check schema response for balance end point$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: User Can check schema response for balance end point" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: User Can create Charging and retrieve assert response" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/stripe/test/Charging.feature" />
+      <option name="GLUE" value="stripe.test" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="stripe" />
+      <option name="NAME_FILTER" value="^User Can create Charging and retrieve assert response$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^User Can create Charging and retrieve assert response$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: User Can create Charging and retrieve assert response" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: User Can create a Charge" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/api_Tests/test/Charging.feature" />
+      <option name="GLUE" value="api_Tests" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Strip" />
+      <option name="NAME_FILTER" value="^User Can create a Charge$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^User Can create a Charge$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: User Can create a Charge" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChargingRunner" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="stripe" />
+      <option name="PACKAGE_NAME" value="stripe.test" />
+      <option name="MAIN_CLASS_NAME" value="stripe.test.ChargingRunner" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/mobile/orangeHr/API/stripe/testNG.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="stripe" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testNG.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Cucumber Java.Scenario: User Can create Charging and retrieve assert response" />
+      <item itemvalue="Cucumber Java.Scenario: User Can check schema response for balance end point (1)" />
+      <item itemvalue="Cucumber Java.Scenario: User Can create a Charge" />
+      <item itemvalue="TestNG.ChargingRunner" />
+      <item itemvalue="TestNG.D:/mobile/orangeHr/API/stripe/testNG.xml" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.ChargingRunner" />
+        <item itemvalue="Cucumber Java.Scenario: User Can create Charging and retrieve assert response" />
+        <item itemvalue="TestNG.D:/mobile/orangeHr/API/stripe/testNG.xml" />
+        <item itemvalue="Cucumber Java.Scenario: User Can check schema response for balance end point (1)" />
+        <item itemvalue="Cucumber Java.Scenario: User Can create a Charge" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ffd7e780-6b76-4aab-8403-69e23a45e96c" name="Changes" comment="" />
+      <created>1713951208421</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713951208421</updated>
+    </task>
+    <task id="LOCAL-00001" summary="schema path">
+      <created>1714298344563</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714298344563</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Read Me">
+      <created>1714300703929</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1714300703929</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Read Me">
+      <created>1714301313975</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1714301313975</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Read Me">
+      <created>1714305823500</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1714305823501</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Read Me">
+      <created>1714307833845</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1714307833845</updated>
+    </task>
+    <task id="LOCAL-00006" summary="modify">
+      <created>1714314611403</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1714314611403</updated>
+    </task>
+    <task id="LOCAL-00007" summary="update">
+      <created>1714498255161</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1714498255161</updated>
+    </task>
+    <task id="LOCAL-00008" summary="update">
+      <created>1714498303048</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1714498303048</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="schema path" />
+    <MESSAGE value="Read Me" />
+    <MESSAGE value="modify" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NoClassDefFoundError" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IllegalArgumentException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint enabled="true" type="java-exception" />
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
